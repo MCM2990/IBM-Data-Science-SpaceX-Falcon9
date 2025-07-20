@@ -2,7 +2,7 @@ The capstone project is about predicting if SpaceX's Falcon 9 rockets will land 
 
 Course: IBM - Applied Data Science Capstone
 
-Notebooks: Link to the notebooks
+Notebooks: [Link to the notebooks]https://github.com/MCM2990/IBM-Data-Science-SpaceX-Falcon9/tree/main/Notebooks)
 
 Activities:
 Data collection through an API
